@@ -217,7 +217,7 @@ function App() {
               <a href="https://in.linkedin.com/in/theamittiwari07" className="contact-link" target="_blank" rel="noopener noreferrer">
                 💼 LinkedIn
               </a>
-              <a href="https://github.com/theamittiwari07" className="contact-link" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/theamittiwari07/MyPortfolio" className="contact-link" target="_blank" rel="noopener noreferrer">
                 💻 GitHub
               </a>
             </div>
